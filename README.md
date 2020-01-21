@@ -1,4 +1,4 @@
-# Jingrui
+# Bayesian Project
 Objectives:
 1)Using Bayesian Probit Model with different priors on 𝛽𝛽 and Bayesian Logit Model to estimate the posterior distribution of parameters of interest. In Chapter2, I use these two different models to predict responses with new dataset X. For predicting responses, I also use Support Vector Classifier (SVC) model.  
 2) For testing the prediction accuracy of Bayesian models, ROC curve is used to compare Bayesian Models with SVC Model in Chapter3.  
